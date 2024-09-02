@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gutenberg Form Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-28 21:15+0000\n"
+"PO-Revision-Date: 2024-08-28 21:19+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: gfp-plugin-textdomain"
+
+#: includes/shortcode.php:32
+msgid "Acciones"
+msgstr "Actions:"
+
+#: includes/register-block.php:37 src/block.js:56
+msgid "Apellido:"
+msgstr "Lastname:"
+
+#: src/block.js:28
+msgid "Azul claro"
+msgstr "Skyblue"
+
+#: src/block.js:25
+msgid "Color de Fondo"
+msgstr "Background"
+
+#: src/block.js:22
+msgid "Configuración de Color de Fondo"
+msgstr "Background Settings"
+
+#. Description of the plugin
+msgid "Crear bloque personalizado para formulario de Sugerencias en Gutenberg"
+msgstr "Create custom block for Suggestion form in Gutenberg"
+
+#: includes/shortcode.php:47
+msgid "Editar"
+msgstr "Edit"
+
+#: includes/shortcode.php:30
+msgid "Email"
+msgstr "Email"
+
+#: includes/edit-suggestion.php:58 includes/register-block.php:43
+#: src/block.js:62
+msgid "Email:"
+msgstr "Email:"
+
+#: src/block.js:80
+msgid "Enviar"
+msgstr "Send"
+
+#: includes/ajax-handler.php:34
+msgid "Error al actualizar la sugerencia"
+msgstr "Error updating the sugestion"
+
+#: src/block.js:38
+msgid "Este es el formulario de sugerencias."
+msgstr "This is the suggestion form."
+
+#. Author of the plugin
+msgid "Felipe Mogro"
+msgstr "Felipe Mogro"
+
+#: src/block.js:7
+msgid "Formulario de Sugerencias"
+msgstr "Suggestions form"
+
+#: includes/ajax-handler.php:50
+msgid "Gracias por su sugerencia"
+msgstr "Thank you for your suggestion"
+
+#: includes/edit-suggestion.php:80 includes/register-block.php:68
+msgid "Guardar Cambios"
+msgstr "Save changes"
+
+#. Name of the plugin
+msgid "Gutenberg Form Plugin"
+msgstr "Gutenberg Form Plugin"
+
+#. Author URI of the plugin
+msgid "https://github.com/felipemogro"
+msgstr "Gutenberg Form Plugin"
+
+#: includes/ajax-handler.php:52
+msgid "Hubo un error al guardar su sugerencia"
+msgstr "Error saving suggestion"
+
+#: includes/shortcode.php:19
+msgid "No hay sugerencias disponibles."
+msgstr "No suggestions avaiable"
+
+#: includes/edit-suggestion.php:13 includes/shortcode.php:10
+msgid "No tienes permiso para ver esta página."
+msgstr "You are not allowed"
+
+#: includes/shortcode.php:29
+msgid "Nombre"
+msgstr "Name"
+
+#: includes/register-block.php:31 src/block.js:50
+msgid "Nombre:"
+msgstr "Name:"
+
+#: includes/ajax-handler.php:6
+msgid "Nonce inválido"
+msgstr "Invalid nonce"
+
+#: includes/edit-suggestion.php:64 includes/register-block.php:49
+#: src/block.js:68
+msgid "País:"
+msgstr "Country:"
+
+#: src/block.js:30
+msgid "Rojo claro"
+msgstr "Red"
+
+#: includes/shortcode.php:31
+msgid "Sugerencia"
+msgstr "Suggestion"
+
+#: includes/ajax-handler.php:32
+msgid "Sugerencia actualizada correctamente"
+msgstr "Suggestion updated correctly"
+
+#: includes/edit-suggestion.php:71 includes/register-block.php:55
+#: src/block.js:74
+msgid "Sugerencias:"
+msgstr "Suggestions"
+
+#: includes/edit-suggestion.php:39
+msgid "Tu sugerencia ha sido actualizada."
+msgstr "Your suggestion has been updated"
+
+#: src/block.js:29
+msgid "Verde claro"
+msgstr "Green"
+
+#: includes/register-block.php:63 includes/shortcode.php:19
+#: includes/shortcode.php:54
+msgid "Volver al home"
+msgstr "Back to home"
+
+#: includes/edit-suggestion.php:41 includes/edit-suggestion.php:77
+msgid "Volver al listado"
+msgstr "Back to list"
+
+#: includes/edit-suggestion.php:38
+msgid "¡Cambios guardados!"
+msgstr "Changes saved!"
